@@ -50,7 +50,7 @@ public class Server {
 					if(recive.equals("Get list user")){
 						System.out.println(recive);
 						
-						
+						//không gửi được tại đây
 						dos.writeUTF("Refresh list user");
 						
 						
