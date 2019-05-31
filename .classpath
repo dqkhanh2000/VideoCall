@@ -7,9 +7,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib.jar"/>
-	<classpathentry kind="lib" path="/webcam-capture-0.3.10-dist/libs/bridj-0.6.2.jar"/>
-	<classpathentry kind="lib" path="/webcam-capture-0.3.10-dist/libs/slf4j-api-1.7.2.jar"/>
 	<classpathentry kind="lib" path="jgoodies-forms-1.8.0.jar" sourcepath="jgoodies-forms-1.8.0-sources.jar"/>
 	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
